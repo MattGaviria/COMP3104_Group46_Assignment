@@ -1,3 +1,4 @@
 COMP 3104 DevOps course teaches students the concepts of version control,
 branching, collaboration using GitHub, and CI/CD pipelines.
 The course emphasizes practical skills for software development in a team environment.
+Students also learn about Git branching strategies, pull requests, and continuous deployment using GitHub Actions.
