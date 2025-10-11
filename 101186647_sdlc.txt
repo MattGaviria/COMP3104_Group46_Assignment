@@ -1,0 +1,4 @@
+Devops is a crucial component of the software development lifecycle by increasing speed, reliability,
+and collaboration.  It achieves these improvements through automation, continuous integration,
+and continious delivery.  Using SDLC practices allows better quality products, reduced errors,
+more frequent releases, and using automated testing and monitoring allow for easy detection of errors.
