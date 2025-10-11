@@ -5,7 +5,7 @@ COMP3104 Group 46 Assignment – Course Content Summaries
 
 ## Group Members
 - Areeb Shoukat – 101513564 – [areebshoukat](https://github.com/areebshoukat)
-- [Add other members here with Student ID and GitHub username]
+- Mitchell Stevenson - 101186647 - [GitHub](https://github.com/m-stevenson)
 
 ## Project Description
 This repository contains summaries and examples for the COMP3104 course topics, including:
