@@ -1,5 +1,5 @@
-George Brown's COMP3104 Devops course covers the procedures, protocols and best practices that
+George Brown's COMP3104 Devops(Developer Operations) course covers the procedures, protocols and best practices that
 a devops engineer should bring to a workplace environment for efficiency and productivity.
-The course helps students analyze and evaluate various developer operation implementations available
+The course helps students analyze and evaluate various developer operation implementations
 and provides students with hands-on work with real-world practices.  The course allows students
-to learn how to solve complex business problems by following the core responsibilities of DevOps.
+to learn how to solve complex business problems by following the core responsibilities and practices of DevOps.
