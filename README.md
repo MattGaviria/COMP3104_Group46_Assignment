@@ -4,8 +4,10 @@
 COMP3104 Group 46 Assignment – Course Content Summaries
 
 ## Group Members
+- Cesar Gaviria Sepulveda – 101513564 – [Cesar Gaviria Sepulveda](h(https://github.com/MattGaviria))
 - Areeb Shoukat – 101513564 – [areebshoukat](https://github.com/areebshoukat)
-- [Add other members here with Student ID and GitHub username]
+- Metchell Stevenson – 101186647 – [Mitchell Stevenson](https://github.com/m-stevenson))
+
 
 ## Project Description
 This repository contains summaries and examples for the COMP3104 course topics, including:
