@@ -4,7 +4,7 @@
 COMP3104 Group 46 Assignment – Course Content Summaries
 
 ## Group Members
-- Cesar Gaviria Sepulveda – 101513564 – [Cesar Gaviria Sepulveda](https://github.com/MattGaviria))
+- Cesar Gaviria Sepulveda – 101513564 – [Cesar Gaviria Sepulveda](https://github.com/MattGaviria)
 - Areeb Shoukat – 101513564 – [Areeb Shoukat](https://github.com/areebshoukat)
 - Metchell Stevenson – 101186647 – [Mitchell Stevenson](https://github.com/m-stevenson)
 
